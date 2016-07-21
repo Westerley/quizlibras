@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Libras Brincando</string>
+    <string name="ok">Ok</string>
+    <string name="tituloInfo">Sobre o Jogo</string>
+    <string name="tituloDesenvolvedor">Desenvolvedor</string>
+    <string name="tituloExtra">Extras</string>
+    <string name="nomeLinkedin">Westerley Reis</string>
+    <string name="perguntaQuiz">Quais dessas alternativas esta correta?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string-array name="categorias">
+        <item>Animais</item>
+        <item>Frutas</item>
+    </string-array>
+
+</resources>
